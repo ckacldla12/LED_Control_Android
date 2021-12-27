@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "855442301394",
+    "firebase_url": "https://fir-led-control-shin-default-rtdb.firebaseio.com",
+    "project_id": "fir-led-control-shin",
+    "storage_bucket": "fir-led-control-shin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855442301394:android:43af5ede50e21660b3680b",
+        "android_client_info": {
+          "package_name": "com.example.fbled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855442301394-600maqco1g08ud6f8bg7mpasfee1iqmp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABYZkjHIkBigCSSB8B5rNTfTnM1GvpqAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855442301394-600maqco1g08ud6f8bg7mpasfee1iqmp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
